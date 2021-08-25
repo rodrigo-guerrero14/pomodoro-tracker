@@ -1,0 +1,11 @@
+.pomodoro_tracker{
+  background-color: var(--color-black);
+  border-radius: 16px;
+  box-sizing: border-box;
+  padding: 24px;
+  margin: auto;
+  min-height: 472px;
+  width: 292px;
+  position: relative;
+  z-index: 20;
+}
